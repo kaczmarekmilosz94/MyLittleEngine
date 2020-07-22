@@ -23,3 +23,4 @@ Wydzieliłem następujące części projektu:
 - Silnik fizyki 3D
 - Edytor (graficzny interfejs użytkownika, który łączy silnik graficzny i fizyczny)
 
+![Test Image 4](https://github.com/kaczmarekmilosz94/MyLittleEngine/blob/master/mle.png?raw=true)
